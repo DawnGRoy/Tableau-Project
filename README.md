@@ -1,17 +1,45 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+Investigate Global Tuberculosis Burden data (1990 – 2013) to understand which countries have improved tuberculosis statistics and which countries are still struggling with the epidemic. 
+Trend Analysis for Tuberculosis Deaths:
+Analyze trends in Tuberculosis Deaths among both HIV-positive and HIV-negative cases. Identify key milestones, turning points, and associations with global initiatives and interventions.
 
 ## Process
-### (your step 1)
-### (your step 2)
+1. Download the Dataset
+2. Explore the Data for Interesting information
+3. Form and Test Hypothesis
+4. Build and Present Dashboard
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+Option 2: Global TB Burden 
+1. This dashboard reveals that the majority of estimated cases, prevalence, and non-HIV-related deaths are situated in Southeast Asia. This could be attributed to the larger population of India.
+
+2. It becomes apparent that the higher prevalence of tuberculosis (TB) in India and China is a result of their significantly larger populations. Examining the prevalence of TB per 100,000 people, it is good to note that the African Region experiences a higher prevalence due to its comparatively smaller population, emphasizing the impact of population density on disease prevalence rates.
+
+3. Despite China having the highest population, India is closely behind, and considering that China is approximately 2.9 times larger in land area than India, it's evident that India has a higher population density. This higher population density in India, combined with its substantial population, creates conditions where airborne diseases like tuberculosis can spread more rapidly and extensively.
+
+4. While examining the trend lines for the number of Tuberculosis Deaths among both HIV-positive and HIV-negative individuals, intriguing patterns emerge.
+For HIV-negative cases, specific dates coincide with notable changes in the trend. The establishment of the Global Fund in 1996 marks the beginning of a plateau, followed by the formation of the Stop TB Partnership in 1998, contributing to a gradual decline. The inclusion of TB in the Millennium Development Goals in 2001 accelerates the decline, and a steeper slope is observed after the launch of the Global Plan to Stop TB in 2006.
+On the other hand, for HIV-positive cases, a sharp increase in deaths is evident until 2003 when the United States launches PEPFAR, leading to a plateau in the death toll. Subsequently, the World Health Organization's "3 by 5" initiative in 2003 results in a decline of approximately 60,000 deaths over four years. The launch of UNAIDS' "Getting to Zero" Strategy in 2010 contributes to another decline of approximately 60,000 deaths within the following three years.
+
+5. Examining the data in terms of percentages relative to the total population provides a clearer perspective on the actual trends in death rates and incident cases. Despite an increase in the absolute numbers of deaths and incident cases, the percentage per population has decreased. In essence, this implies that, in relation to population growth, the numbers are on a downward trajectory.
+
+6. Future predictions indicate a trend of ongoing decline in most estimated cases, with a likelihood of consistent, gradual decreases rather than significant drops. Notably, the Eastern Mediterranean Region stands out as an exception, displaying a very slow, incremental rise in estimated incident cases.
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
+ENSURING DATA QUALITY:
+In regards to null values, outliers, and inconsistencies in the data types
 
+COMPACT DATA PRESENTATION:
+It was difficult to fit all of the information I wanted to into the dashboard.
 ## Future Goals
-(what would you do if you had more time?)
+GDP PER CAPITA:
+Collect and analyze more recent data from 2014 onwards to deepen our understanding of trends in TB and HIV cases. Identify emerging patterns and variations to inform targeted .
+
+2014 ONWARDS:
+Collect and analyze more recent data from 2014 onwards to deepen our understanding of trends in TB and HIV cases. Identify emerging patterns and variations to inform targeted interventions.
+
+HEALTH CARE PLAN:
+Investigate and assess country-specific healthcare plans to evaluate the accessibility of medication and treatment for TB and HIV. Develop insights into the effectiveness of healthcare policies.
